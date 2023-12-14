@@ -1,1 +1,1 @@
-# labirinto_de_luz
+# labirinto_luz
